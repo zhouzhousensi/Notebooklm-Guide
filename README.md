@@ -37,9 +37,9 @@
 
 需要按目录阅读时，进入 [分章目录](./book/README.md)。
 
-需要导入微信读书、Apple Books 或其他阅读器时，下载 [EPUB 版本](./releases/NotebookLM从基础到高阶-v1.0.epub)。
+完整内容可以直接打开 [BOOK.md](./BOOK.md) 在线阅读。
 
-## 参与贡献
+需要导入微信读书、Apple Books 或其他阅读器时，请前往 [Releases 下载最新版 EPUB](https://github.com/zhouzhousensi/Notebooklm-Guide/releases/latest)。
 
 发现功能变化、事实错误、错别字或新的实践案例，可以提交 Issue。
 
