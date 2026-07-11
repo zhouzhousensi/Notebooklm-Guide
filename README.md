@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cover.png" width="420" alt="NotebookLM 从基础到高阶封面">
+ <img src="./cover.png" width="420" alt="NotebookLM 从基础到高阶封面">
 </p>
 
 <h1 align="center">NotebookLM 从基础到高阶</h1>
