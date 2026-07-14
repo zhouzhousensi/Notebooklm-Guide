@@ -1,10 +1,10 @@
 ---
 title: "NotebookLM 从基础到高阶"
 subtitle: "把零散资料变成可追溯、可复用、可交付的成果"
-author: "齐天大圣"
+author: "韦小宝"
 date: "2026 年 7 月"
 lang: "zh-CN"
-rights: "Copyright © 2026 齐天大圣。本书采用 CC BY 4.0 许可。"
+rights: "Copyright © 2026 韦小宝。本书采用 CC BY 4.0 许可。"
 description: "面向知识工作者、内容创作者与研究者的 NotebookLM 独立实战指南。"
 ---
 
@@ -12,10 +12,10 @@ description: "面向知识工作者、内容创作者与研究者的 NotebookLM 
 
 **书名**：《NotebookLM 从基础到高阶》  
 **副标题**：把零散资料变成可追溯、可复用、可交付的成果  
-**作者**：齐天大圣  
+**作者**：韦小宝  
 **版本**：v1.0，2026 年 7 月修订  
 
-Copyright © 2026 齐天大圣。
+Copyright © 2026 韦小宝。
 
 本书采用 Creative Commons Attribution 4.0 International（CC BY 4.0）许可协议发布。
 
